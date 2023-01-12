@@ -1,52 +1,122 @@
-# Hello-microverse
-Best pratices project and no complex coding
+<a name="readme-top"></a>
 
-# Getting started
+</div>
 
-To get a local copy up and running, follow these steps:
+<!-- TABLE OF CONTENTS -->
 
-## Prerequisites
+# 📗 Table of Contents
 
-To run this web page, you need:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-- A computer
-- A web browser
+<!-- PROJECT DESCRIPTION -->
 
-## Setup
+# 📖 [your_project_name] <a name="about-project"></a>
 
-1. Clone or download this repository to your desired folder
-2. Extract the files if necessary
+**Hello microverse** is my first project for week 1 module 1. 
 
-## Usage
+## 🛠 Built With <a name="built-with"></a>
+<!-- Features -->
 
-To run this web page:
+### Key Features <a name="key-features"></a>
 
-1. Go to the corresponding directory
-2. Double-click on the index.html file
-3. Select your preferred browser, if prompted
 
-Or
+- **show "Hello microverse!" on a web page**
 
-1. Go to the corresponding directory
-2. Right-click on the index.html file
-3. Select "Open"
-4. Select your preferred browser, if prompted
 
-## Authors
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Author1
-GitHub: @Matthieu96Code
-Twitter: @MatthieuSENOU
-LinkedIn: Kodjo Matthieu SENOU
 
-## Show your support
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+### Prerequisites
+
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  mkdir my-folder
+  cd my-folder
+  git clone https://github.com/Matthieu96Code/hello-microverse.git
+```
+
+
+### Usage
+
+To run the project, execute the following command:
+
+-run the index.html file
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author**
+
+- GitHub: [@Matthieu96Code](https://https://github.com/Matthieu96Code)
+- Twitter: [@MatthieuSENOU](https://https://twitter.com/MatthieuSenou)
+- LinkedIn: [Kodjo Matthieu SENOU](https://https://www.linkedin.com/in/kodjo-matthieu-senou-724a50210/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Matthieu96Code/hello-microverse/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please consider leaving a star.
 
-## Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for supporting this project.
 
-## License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is MIT licensed.
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
