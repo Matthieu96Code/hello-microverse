@@ -1,62 +1,74 @@
 <a name="readme-top"></a>
 
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 hello microverse <a name="about-project"></a>
 
-**Hello microverse** is my first project for week 1 module 1. 
+**hello microverse** is my first project of my first week of module 1 to build good habits at microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
-<!-- Features -->
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Tab and Styling</summary>
+  <ul>
+    <li><a href="https://https://www.hostingreviewbox.com/html5-cheat-sheet//">html</a></li>
+    <li><a href="https://https://www.lesliefranke.com/files/reference/csscheatsheet.html/">css</a></li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-
-- **show "Hello microverse!" on a web page**
-
+- **show "Hello word!" on a web page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- GETTING STARTED -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- not exist
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- to install a browser
 
 ### Setup
 
 Clone this repository to your desired folder:
+
 
 ```sh
   mkdir my-folder
@@ -65,15 +77,25 @@ Clone this repository to your desired folder:
 ```
 
 
+### Install
+
+no required
+
 ### Usage
 
-To run the project, execute the following command:
+To run the project, launch:
 
--run the index.html file
+- index.html file
+
+### Run tests
+
+not required
+
+### Deployment
+
+not required
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -83,9 +105,15 @@ To run the project, execute the following command:
 - Twitter: [@MatthieuSENOU](https://https://twitter.com/MatthieuSenou)
 - LinkedIn: [Kodjo Matthieu SENOU](https://https://www.linkedin.com/in/kodjo-matthieu-senou-724a50210/)
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ 1 ] **show more text from Lipsum**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -95,15 +123,12 @@ Feel free to check the [issues page](https://github.com/Matthieu96Code/hello-mic
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, please consider leaving a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -111,8 +136,6 @@ I would like to thank Microverse for supporting this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
