@@ -8,8 +8,8 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
@@ -42,6 +42,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **show "Hello word!" on a web page**
+- **show text as a header**
+- **show text with blue font color**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,7 +112,9 @@ not required
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ 1 ] **show more text from Lipsum**
+- [ ] **show more subheadings**
+- [ ] **show more text from Lipsum**
+- [ ] **show more styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
